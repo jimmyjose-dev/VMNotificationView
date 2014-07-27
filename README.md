@@ -1,0 +1,4 @@
+VMNotificationView
+==================
+
+Custom notification view
