@@ -11,10 +11,9 @@
 typedef void (^NotificationCallback)(int pressedButtonIndex, NSString *pressedButtonTitle);
 
 /**
- *  Documentation is not that great...will improve it later if i ever comeback this project.
- *  I have just laid on new feature and customization stuff to already existing work done by Gaurav.
- *  Wanted to do a pull request but due to lack of internet(at my end) and unncessary
- *  level of complexity i have added, made me to post it with new name.
+ *  Documentation is not that great...will improve it later.
+ *  Added new feature and customization to already existing work done by in MPGNotification.
+ *  Wanted to do a pull request will do that later no need to reinvent the wheel, for now posting it with new name.
  *
  *  MPGNotification is a much clear version (codewise), will fix mine later and probably submit as a pull request.
  */
