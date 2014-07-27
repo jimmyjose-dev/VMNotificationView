@@ -13,9 +13,9 @@ Features
 **27th July update** Came back from vacation and noticed, same feature have been included in MPGNotification. I will upload my version anyways ;) 
 Auto dismiss is implemented differently
 
-![VMNotification Screenshot](http://i58.tinypic.com/v6n2ti.png) ![VMNotification Screenshot](http://i60.tinypic.com/mma7av.png) ![VMNotification Screenshot](http://i62.tinypic.com/nnobbq.png) ![VMNotification Screenshot](http://i61.tinypic.com/2modyqp.png)
-![VMNotification Screenshot](http://i60.tinypic.com/jfbsl3.png) ![VMNotification Screenshot](http://i57.tinypic.com/2ekkves.png)
-![VMNotification Screenshot](http://i59.tinypic.com/207rzmr.png) ![VMNotification Screenshot](http://i57.tinypic.com/6tjl81.png)
+![VMNotification Screenshot](http://i58.tinypic.com/v6n2ti.png)			![VMNotification Screenshot](http://i60.tinypic.com/mma7av.png) ![VMNotification Screenshot](http://i62.tinypic.com/nnobbq.png) ![VMNotification Screenshot](http://i61.tinypic.com/2modyqp.png)
+![VMNotification Screenshot](http://i60.tinypic.com/jfbsl3.png)			![VMNotification Screenshot](http://i57.tinypic.com/2ekkves.png)
+![VMNotification Screenshot](http://i59.tinypic.com/207rzmr.png)		![VMNotification Screenshot](http://i57.tinypic.com/6tjl81.png)
 
 
 
