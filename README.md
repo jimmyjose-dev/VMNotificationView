@@ -2,7 +2,7 @@ VMNotificationView
 =====================
 
 
- Added new features and customization to already existing work done by Gaurav in MPGNotification.
+ Added new features and customization to already existing work done in MPGNotification.
  Wanted to do a pull request will do that later no need to reinvent the wheel, for now posting it with new name.
 
 ----------
@@ -29,7 +29,7 @@ Auto dismiss is implemented differently
 > - Block based.
 > - Both buttons can show countdown for auto dismiss
 > - Countdown time can be changed
-> - Documentaion included, put the docset in /Applications/Xcode.app/Contents/Developer/Documentation/DocSet and restart Xcode.
+> - Documentation included, put the docset in /Applications/Xcode.app/Contents/Developer/Documentation/DocSet and restart Xcode.
 
 
 
